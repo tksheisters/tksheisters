@@ -36,7 +36,7 @@
 </p>
 
 ```
-# E também em Python :)
+# Python delicinha :)
 
 def success(dedication, persistence, passion):
     dedication += 1
