@@ -1,28 +1,5 @@
 ## Olá sou o Matheus Heisters, estudante de Análise e Desenvolvimento de Sistemas.
 
-```
-// Tenho um pouco de conhecimento em JS
-
-function breakOneWayOrAnother(today,coffeeBottle) {
-    if (today == 'hard', coffeeBottle == 'full') {
-        coffeeTime  = true;
-        takeLookAround = true
-        console.log('Stop coding and take a Coffee!')
-    }
-    else if(today == 'hard', coffeeBottle == 'empty') {
-        timeToMakeCoffee = true;
-        console.log('Stop coding and make Coffee!')
-    }
-    else {
-        console.log(
-        'Keep it up, don't let difficulties stop you from getting where you want...',
-        'Keep making mistakes, learning, but always growing, and with a coffee bottle full.'
-        )
-    }
-}
-breakOneWayOrAnother('amazing','full')
-
-```
 
 ### Estudando no momento:
 
