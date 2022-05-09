@@ -1,4 +1,6 @@
-## Olá sou o Matheus Heisters, estudante de Análise e Desenvolvimento de Sistemas.
+## Olá sou o Matheus, estudante de Análise e Desenvolvimento de Sistemas.
+
+No momento estou focando nos estudos e procurando um estágio...
 
 
 ### Estudando no momento:
