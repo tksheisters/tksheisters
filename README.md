@@ -37,8 +37,6 @@ No momento estou focando nos estudos e procurando um estágio...
   <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tksheisters&layout=compact&langs_count=8&theme=monokai"/>
 </p>
 
-```
-
 ### Social
 
 <a href="https://www.linkedin.com/in/matheus-andr%C3%A9-107695158/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
