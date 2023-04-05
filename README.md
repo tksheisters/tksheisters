@@ -42,7 +42,6 @@ No momento estou focando nos estudos e procurando um estágio...
 ### GitHub Analytics:
 
 <p align="left">
-  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tksheisters&show_icons=true&theme=monokai"/>
   <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tksheisters&layout=compact&langs_count=8&theme=monokai"/>
 </p>
 
