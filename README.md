@@ -12,11 +12,6 @@
 ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### GitHub Analytics:
-
-<p align="left">
-  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tksheisters&layout=compact&langs_count=8&theme=monokai"/>
-</p>
 
 ### Social
 
